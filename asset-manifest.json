@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/colorspicker/static/css/main.ad2800b8.chunk.css",
-    "main.js": "/colorspicker/static/js/main.2b3bd312.chunk.js",
-    "main.js.map": "/colorspicker/static/js/main.2b3bd312.chunk.js.map",
-    "runtime-main.js": "/colorspicker/static/js/runtime-main.3b3bcb7c.js",
-    "runtime-main.js.map": "/colorspicker/static/js/runtime-main.3b3bcb7c.js.map",
-    "static/js/2.0f923e5d.chunk.js": "/colorspicker/static/js/2.0f923e5d.chunk.js",
-    "static/js/2.0f923e5d.chunk.js.map": "/colorspicker/static/js/2.0f923e5d.chunk.js.map",
-    "index.html": "/colorspicker/index.html",
-    "static/css/main.ad2800b8.chunk.css.map": "/colorspicker/static/css/main.ad2800b8.chunk.css.map",
-    "static/js/2.0f923e5d.chunk.js.LICENSE.txt": "/colorspicker/static/js/2.0f923e5d.chunk.js.LICENSE.txt"
+    "main.css": "/colorsPicker/static/css/main.ad2800b8.chunk.css",
+    "main.js": "/colorsPicker/static/js/main.2b3bd312.chunk.js",
+    "main.js.map": "/colorsPicker/static/js/main.2b3bd312.chunk.js.map",
+    "runtime-main.js": "/colorsPicker/static/js/runtime-main.9bdaeb31.js",
+    "runtime-main.js.map": "/colorsPicker/static/js/runtime-main.9bdaeb31.js.map",
+    "static/js/2.0f923e5d.chunk.js": "/colorsPicker/static/js/2.0f923e5d.chunk.js",
+    "static/js/2.0f923e5d.chunk.js.map": "/colorsPicker/static/js/2.0f923e5d.chunk.js.map",
+    "index.html": "/colorsPicker/index.html",
+    "static/css/main.ad2800b8.chunk.css.map": "/colorsPicker/static/css/main.ad2800b8.chunk.css.map",
+    "static/js/2.0f923e5d.chunk.js.LICENSE.txt": "/colorsPicker/static/js/2.0f923e5d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b3bcb7c.js",
+    "static/js/runtime-main.9bdaeb31.js",
     "static/js/2.0f923e5d.chunk.js",
     "static/css/main.ad2800b8.chunk.css",
     "static/js/main.2b3bd312.chunk.js"
